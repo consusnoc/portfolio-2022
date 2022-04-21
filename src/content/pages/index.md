@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Hi! I’m Consuelo
 tagline: Product Designer & UI Developer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+featuredImage: /assets/consuelo.jpeg
 cta:
   ctaText: About me
   ctaLink: /about
