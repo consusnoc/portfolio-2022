@@ -1,12 +1,12 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "Consuelo Romano",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
+    "description": "Product designer and UI Developer ❤",
     "siteUrl": "https://foundation.stackrole.com",
-    "image": "/assets/stackrole.png",
-    "iconimage": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "image": "/assets/crlogo500.png",
+    "iconimage": "/assets/favicon.ico",
+    "twitterUsername": "@consusnoc"
   },
   "ga": "UA-XXXXXXXXX-X"
 }
