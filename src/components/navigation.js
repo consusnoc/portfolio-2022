@@ -16,11 +16,11 @@ const MenuItems = [
   },
   {
     path: "/blog",
-    title: "Blog",
+    title: "Projects",
   },
   {
     path: "/contact",
-    title: "Contact",
+    title: "Resume",
   },
 ]
 
