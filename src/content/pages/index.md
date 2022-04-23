@@ -1,7 +1,7 @@
 ---
 template: index-page
 slug: /
-title: Hi! I am Consuelo
+title: Consuelo Romano
 tagline: Product Designer & UI Developer
 featuredImage: /assets/consuelo.jpeg
 cta:

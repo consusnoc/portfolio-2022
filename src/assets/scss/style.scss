@@ -15,9 +15,9 @@
   justify-content: space-between;
   align-items: center;
   position: relative;
-  padding: 30px 115px;
+  padding: 20px 115px;
   @media (max-width: $breakpoint-xl) {
-    padding: 30px 20px;
+    padding: 20px 20px;
   }
 }
 .site-navigation {
@@ -109,7 +109,7 @@
   }
 }
 .home-banner {
-  padding: 70px 0;
+  padding: 90px 0;
   align-items: center;
   .title {
     font-size: 48px;
@@ -257,11 +257,6 @@ article img {
   }
 }
 // Buttons
-.button-link {
- font-size: 16px;
- //text-decoration: underline;
- color: #717ce0;
-}
 //main button
 .button {
   --padding: 15px;
@@ -272,8 +267,7 @@ article img {
   border-radius: 6px;
   text-decoration: none;
   appearance: none;
-  color: #717ce0 !important;
-  border: 1px solid #717ce0;
+  border: none;
   font-size: 16px;
   line-height: 1;
   transition: background 0.3s linear;
