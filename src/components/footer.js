@@ -7,16 +7,17 @@ const Footer = () => (
   <footer
     className="site-footer"
     sx={{
-      bg: "siteColor",
+      bg: "#1b1c28",
     }}
   >
     <div className="container">
       <p>
-        A GatsbyJS Starter for Netlify CMS, Made with{" "}
+        Contact: 
+        <Link to="mailto:hello@consueloromano.com"> hello@consueloromano.com</Link>
+        {/*{" "}
         <span className="icon -love">
           <RiHeart2Line />
-        </span>{" "}
-        by <Link to="/">Stackrole.com</Link>
+  </span>{" "}*/}
       </p>
     </div>
   </footer>

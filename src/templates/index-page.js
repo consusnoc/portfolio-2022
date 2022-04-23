@@ -220,9 +220,9 @@ const HomePage = ({ data }) => {
             }}
           >
             {frontmatter.cta.ctaText}
-            <span className="icon -right">
+            {/*<span className="icon -right">
               <RiArrowRightSLine />
-            </span>
+            </span>*/}
           </Link>
           <div
             className="social-icons"

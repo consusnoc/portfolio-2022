@@ -32,7 +32,7 @@ const themeStyles = {
       border: "none",
       cursor: "pointer",
       mt: "-5px",
-      p: "0 20px 0 0",
+      p: "0",
       "&:hover": {
         color: "#bea9b3",
       },

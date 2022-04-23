@@ -1,12 +1,12 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
+title: Hola! I'm Consuelo
+tagline: UX/UI Designer + UI Developer
 featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
 cta:
-  ctaText: Know more
+  ctaText: More about me
   ctaLink: /about
 ---
 
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+I love creating human centered user experiences that look and function beautifully across any device.
