@@ -1,51 +1,22 @@
 ---
 template: about-page
 slug: /about
-title: About Foundation
+title: About Me
 ---
+Nice to meet you! ☺️
 
-Thank you! Now say "nuclear wessels"! No! Don't jump! A sexy mistake. Anyone who laughs is a communist!
+My journey as a designer begins further back than I can remember. I began fostering my creativity and feeding my curiosity in any way I could when I was a child. It became pretty clear to me that studying Graphic Design would help me develop my artistic and creative side and apply it in the real world.
 
-A true inspiration for the children. And when we woke up, we had these bodies. Moving along… Do a flip! Michelle, I don't regret this, but I bth rue and lament it.
+From that moment on I began doing some design freelance work for small companies and businesses in the city where I lived. After a while I got very interested in web and mobile design.
 
-![Toys](/assets/vanessa-bucceri-gdirwiyama8-unsplash.jpg "Toys")
+I strated learning on my own and then joined a Frontend Developer bootcamp for women that wanted to start working in the IT industry. I think that experience has had a huge impact in my life about how technology can have a real impact on people’s lives and the potential it has to make deep and long lasting changes in the world.
 
-Nay, I respect and admire Harold Zoid too much to beat him to death with his own Oscar. Well, then good news! It's a suppository. Then we'll go with that data file! **I've been there.** _My folks were always on me to groom myself and wear underpants._ What am I, the pope?
+Thanks to that experience **in 2019 I took part in a documentary where I tell a little bit about my personal journey and how digital inclusion has impacted my life.**
 
-Daddy Bender, we're hungry. We can't compete with Mom! Her company is big and evil! Ours is small and neutral! We're rescuing ya. We'll go deliver this crate like professionals, and then we'll go home.
+<https://youtu.be/KSTk9P0yh2Y>
 
-I didn't ask for a completely reasonable excuse! I asked you to get busy! I never loved you. OK, this has gotta stop. I'm going to remind Fry of his humanity the way only a woman can. With a warning label this big, you know they gotta be fun!
+My experience as a UI developer taught me to think about the underlying implementation process and how to apply logical thinking when designing interfaces and my experience as a UX/UI designer taught me to understand the softer side on how humans interact with digital products and meet business goals.
 
-1. And from now on you're all named Bender Jr.
-2. Ah, computer dating. It's like pimping, but you rarely have to use the phrase "upside your head."
-3. You wouldn't. Ask anyway!
+Over those years I gathered a set of skills that made me a better designer— I strengthened my user research & design thinking skills, experienced working in fast-paced growing startup, collaborated closely in making design decisions based on business value and implementing digital solutions that can be accessible by everyone, regardless of their abilities.
 
-Bender, quit destroying the universe! No! The cat shelter's on to me. Enough about your promiscuous mother, Hermes! We have bigger problems. Fatal. I guess if you want children beaten, you have to do it yourself.
-
-I decline the title of Iron Cook and accept the lesser title of Zinc Saucier, which I just made up. Uhh… also, comes with double prize money. You mean while I'm sleeping in it? I don't want to be rescued.
-
-- You know the worst thing about being a slave? They make you work, but they don't pay you or let you go.
-- And when we woke up, we had these bodies.
-- Spare me your space age technobabble, Attila the Hun!
-
-Hi, I'm a naughty nurse, and I really need someone to talk to. \$9.95 a minute. But, like most politicians, he promised more than he could deliver. I don't know what you did, Fry, but once again, you screwed up! Now all the planets are gonna start cracking wise about our mamas.
-
-You mean while I'm sleeping in it? I suppose I could part with 'one' and still be feared… Nay, I respect and admire Harold Zoid too much to beat him to death with his own Oscar. Negative, bossy meat creature!
-
-Oh God, what have I done? I don't 'need' to drink. I can quit anytime I want! Bender! Ship! Stop bickering or I'm going to come back there and change your opinions manually! Wow! A superpowers drug you can just rub onto your skin? You'd think it would be something you'd have to freebase.
-
-Ask her how her day was. In our darkest hour, we can stand erect, with proud upthrust bosoms. Why did you bring us here? I don't know what you did, Fry, but once again, you screwed up! Now all the planets are gonna start cracking wise about our mamas.
-
-Good news, everyone! I've taught the toaster to feel love! This opera's as lousy as it is brilliant! Your lyrics lack subtlety. You can't just have your characters announce how they feel. That makes me feel angry!
-
-Hello Morbo, how's the family? You won't have time for sleeping, soldier, not with all the bed making you'll be doing. Oh Leela! You're the only person I could turn to; you're the only person who ever loved me.
-
-My fellow Earthicans, as I have explained in my book 'Earth in the Balance'', and the much more popular ''Harry Potter and the Balance of Earth', we need to defend our planet against pollution. Also dark wizards. Incidentally, you have a dime up your nose.
-
-You are the last hope of the universe. You know the worst thing about being a slave? They make you work, but they don't pay you or let you go. I meant 'physically'. Look, perhaps you could let me work for a little food? I could clean the floors or paint a fence, or service you sexually?
-
-Hey, guess what you're accessories to. I feel like I was mauled by Jesus. Why would a robot need to drink? What are their names? Fry! Quit doing the right thing, you jerk! Doomsday device? Ah, now the ball's in Farnsworth's court!
-
-I saw you with those two "ladies of the evening" at Elzars. Explain that. Shinier than yours, meatbag. That's the ONLY thing about being a slave. Um, is this the boring, peaceful kind of taking to the streets?
-
-Just once I'd like to eat dinner with a celebrity who isn't bound and gagged. Daddy Bender, we're hungry. Kids don't turn rotten just from watching TV. I just want to talk. It has nothing to do with mating. Fry, that doesn't make sense.
+I’m interested in innovation-driven companies with a strong collaborative culture that promote an inclusive and diverse environment to work.
