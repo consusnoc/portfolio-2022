@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Consuelo Romano
 tagline: Product Designer & UI Developer
-featuredImage: /assets/consuelo.jpeg
+featuredImage: /assets/consueloromano.jpeg
 cta:
   ctaText: More about me
   ctaLink: /about
