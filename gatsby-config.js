@@ -87,7 +87,12 @@ module.exports = {
     `gatsby-plugin-sass`,
     `gatsby-plugin-react-helmet`,
     "gatsby-plugin-theme-ui",
-    `gatsby-plugin-netlify-cms`,
+    {
+      resolve: `gatsby-plugin-netlify-cms`,
+      options: {
+        modulePath: `${__dirname}/src/components/cms.js`,
+      },
+    },
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
@@ -119,6 +124,16 @@ module.exports = {
         mergeCachingHeaders: true,
         transformHeaders: (headers, path) => headers,
         generateMatchPathRewrites: true,
+      },
+    },
+    {
+      resolve: `gatsby-transformer-remark`,
+      options: {
+        plugins: [
+          `gatsby-remark-embed-video`,
+          `gatsby-remark-images`,
+          `gatsby-remark-responsive-iframe`,
+        ],
       },
     },
   ],

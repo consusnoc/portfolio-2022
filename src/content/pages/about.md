@@ -13,7 +13,7 @@ I strated learning on my own and then joined a Frontend Developer bootcamp for w
 
 Thanks to that experience **in 2019 I took part in a documentary where I tell a little bit about my personal journey and how digital inclusion has impacted my life.**
 
-<https://youtu.be/KSTk9P0yh2Y>
+`youtube: https://youtu.be/KSTk9P0yh2Y`
 
 My experience as a UI developer taught me to think about the underlying implementation process and how to apply logical thinking when designing interfaces and my experience as a UX/UI designer taught me to understand the softer side on how humans interact with digital products and meet business goals.
 
